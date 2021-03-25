@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* This is a list item
+* Second list item
+  * Nested list item
